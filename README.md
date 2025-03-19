@@ -1,1 +1,1 @@
-Tkinter学習リポジトリ
+vvEZRapprtのGUIを作る、ための実験リポジトリ。
